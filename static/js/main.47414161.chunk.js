@@ -1,0 +1,2 @@
+(this["webpackJsonpjpsi.github.io"]=this["webpackJsonpjpsi.github.io"]||[]).push([[0],[,,,function(e,t,n){e.exports=n(4)},function(e,t,n){"use strict";n.r(t);var i=n(0),o=n.n(i),s=n(2);n.n(s).a.render(o.a.createElement("div",null,"Hello, world!"),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.47414161.chunk.js.map
